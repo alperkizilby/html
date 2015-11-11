@@ -1,0 +1,47 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9">
+<title>ALAN TURENG</title>
+<table border="1">
+<tr>
+<th>ALAN TURENG</th>
+<th>WORLD COMPUTER PROBLEMS</th>
+</tr>
+<tr>
+<td>KRYPTOLOGY</td>
+<td>SECURITY</td>
+</tr>
+<tr>
+<td>NEXT LEVEL LIMIT THEORY</td>
+<td>MATH ISSUE</td>
+</tr>
+</table>
+
+<body style="background-color:lightgrey">
+ <img src="de.jpg" alt="Computer Man" style="width:480px;height:480px;"> 
+</head>
+<body>
+<div style="width:250px; background:red; border:10px solid black;">
+ALAN TURENG </div>
+<p>About Alan Tureng:</p>
+
+<button type="button" onclick="myFunction()">Click Me!</button>
+
+<p id="demo">ALAN TURENG IS RLLY IMPORTANT FOR COMPUTER SCIENCE.</p>
+
+<script>
+function myFunction() { 
+    document.getElementById("demo").innerHTML = "HE CREATED SOME KRYPTOLOGY SCIENCE!";
+}
+</script>
+<h1 style="color:blue">HE IS FATHER OF KRYPTOLOGY</h1>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9">
+<p style="color:red">Alan Mathison Turing, 23 Haziran 1912de Londrada dunyaya gelmis, Britanya Hindistan koloni idaresinde Hindistan devlet memuru olarak calısan bir babanın ikinci ogludur. 6 Yasindayken gunduz okuluna gitmeye baslayan Turing, kisa surede okulun basogretmeni tarafindan ustun zekasiyla kesfedilir. 14 Yasindayken unlu ve cok pahali olan bir ozel okula kayit olur ancak okulun ilk gunu ulkede genel grevin baslamasi sebebiyle trenlerin islemedigi bolgede 60 milden fazla suren yolu bisikletle gider ve okulunda derslere girmeye baslar.
+ .</p>
+ <table style="width:100%">
+  
+   
+</table> 
+</body>
+</html> 
